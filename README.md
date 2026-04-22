@@ -1,17 +1,20 @@
+<p align="center">
+  <img src="Banner~2.jpg" alt="Banner Deiby Ramirez" width="100%">
+</p>
+
 # ¡Hola! Soy Deiby Ramirez (Cheiviz) 👋
 
-### Desarrollador de Software (Mobile & Backend) | Estudiante de Ingeniería de Software
+### Desarrollador de Software | Ingeniería de Software y Computación
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten en el ámbito educativo y empresarial. Actualmente, curso mi séptimo semestre y me enfoco en construir aplicaciones móviles robustas con **Flutter** y arquitecturas backend escalables con **Node.js**.
+Desarrollador apasionado por crear soluciones tecnológicas con impacto real. Me enfoco en construir aplicaciones móviles robustas y arquitecturas backend escalables.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 📍 Ubicado en **Popayán, Colombia**.
 - 🎓 Estudiante de **Ingeniería de Software y Computación** en la Corporación Universitaria Autónoma del Cauca.
-- 🔬 Investigador en desarrollo de software educativo (creador de **C_F_E**, software registrado ante la DNDA).
-- 🛠️ Enfocado en optimización de flujos de trabajo, ciberseguridad y desarrollo de videojuegos.
+- 🔬 Investigador en software educativo (creador de **C_F_E**, registrado ante la DNDA).
+- 🛠️ Interesado en optimización de sistemas, ciberseguridad y soluciones creativas.
 
 ---
 
@@ -38,8 +41,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas que impacten 
 
 ### 📊 Mis Estadísticas de GitHub
 
-Aquí puedes ver mi actividad y lenguajes más utilizados en tiempo real:
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeibyRamirez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeibyRamirez&layout=compact&theme=tokyonight&langs_count=6" />
@@ -49,9 +50,9 @@ Aquí puedes ver mi actividad y lenguajes más utilizados en tiempo real:
 
 ### 🌟 Proyectos Destacados
 
-- **C_F_E (Cálculo de Fuerzas Eléctricas):** Aplicación móvil para simulación 3D de fuerzas electrostáticas, registrada oficialmente en Colombia.
-- **Taquion:** Plataforma de delivery optimizada para el comercio local en Popayán.
-- **UAC Pendulum Lab:** Red nacional de péndulos para la medición de la gravedad.
+- **C_F_E (Cálculo de Fuerzas Eléctricas):** Software de simulación 3D registrado oficialmente.
+- **Trahygo:** Plataforma de delivery para el soporte de comercio local.
+- **UAC Pendulum Lab:** Proyecto de investigación para medición de gravedad.
 
 ---
 
@@ -59,5 +60,3 @@ Aquí puedes ver mi actividad y lenguajes más utilizados en tiempo real:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deiby-ramirez-67a273255)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deibyalejandroramirez13@gmail.com)
-
----
